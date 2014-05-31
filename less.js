@@ -1,7 +1,7 @@
 /*
     AMD loader for less stylesheets
     https://github.com/pingsrl/requirejs-less
-    
+
     Copyright (c) 2014 Ping Srl 
     Released under MIT license
 
@@ -36,9 +36,6 @@
 
     Currently it supports only one option "avoidReimport", if true the library
     check if the stylesheed was already added to the DOM and ignore the request.
-
-    Thanks to jrburke this code is based on its stack overflow response
-    http://stackoverflow.com/questions/5889901/requirejs-and-less
 
 */
 

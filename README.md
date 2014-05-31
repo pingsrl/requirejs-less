@@ -41,5 +41,5 @@ function(){
 Currently it supports only one option "avoidReimport", if true the library
 check if the stylesheed was already added to the DOM and ignore the request.
 
-Thanks to [jrburke](http://stackoverflow.com/users/126372/jrburke) this code is based on its [stack overflow response](http://stackoverflow.com/questions/5889901/requirejs-and-less)
+Thanks to [jrburke](http://stackoverflow.com/users/126372/jrburke) and [nicholas](http://stackoverflow.com/users/586181/nicholas) this code is based on their [stack overflow responses](http://stackoverflow.com/questions/5889901/requirejs-and-less)
 
